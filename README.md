@@ -1,4 +1,4 @@
-![TV series _ Analysis_1](https://github.com/user-attachments/assets/4198d944-3211-459d-a37c-d05f09994421)# SQL Analysis
+# SQL Analysis
 
 Welcome to the SQL Projects repository! This collection of projects demonstrates the use of SQL for managing and analyzing data across various scenarios. Below is an overview of the projects included in this repository.
 
