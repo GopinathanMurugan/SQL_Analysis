@@ -1,4 +1,4 @@
-# SQL Analysis
+![TV series _ Analysis_1](https://github.com/user-attachments/assets/4198d944-3211-459d-a37c-d05f09994421)# SQL Analysis
 
 Welcome to the SQL Projects repository! This collection of projects demonstrates the use of SQL for managing and analyzing data across various scenarios. Below is an overview of the projects included in this repository.
 
@@ -25,18 +25,32 @@ Welcome to the SQL Projects repository! This collection of projects demonstrates
 ### Customer Analysis
 - **Objective**: Manage customer and order data across two tables.
 - **Details**: Stores customer details and their purchase history.
+![Customer Analyssis - 1](https://github.com/user-attachments/assets/e90be88d-8eb4-4462-84b3-193e4c68b6fa)
+![Customer Analysis _2](https://github.com/user-attachments/assets/723a6dfe-425d-4beb-ba5b-9c4bcc7e1f12)
+![Customer Analysis-3](https://github.com/user-attachments/assets/c0088ae0-6ab0-4717-a264-a13331ed941b)
 
 ### Employee Analysis
+
 - **Objective**: Track employee information such as department and salary.
 - **Details**: Provides data on employees across different departments.
+![Employee Analysis_1](https://github.com/user-attachments/assets/5af8fa24-82be-4cbd-a81f-b227c5ecc40f)
+![Employee Analysis_2](https://github.com/user-attachments/assets/0a6973dd-aac4-44d9-aec5-0fe508c9b9c4)
+![Employee Analysis -3](https://github.com/user-attachments/assets/2880a4fe-77b0-46f4-80d7-d5f4a4aa2604)
 
 ### Instagram Clone
 - **Objective**: Simulate a social media platform with users, photos, and comments.
 - **Details**: Stores user posts and links comments to photos.
+![Igclone_1](https://github.com/user-attachments/assets/828a2601-459c-472e-b5f1-0d4ec25bca28)
+![Igclone_2](https://github.com/user-attachments/assets/a77e628e-4308-44d3-b3f8-e7c28ebd5f11)
 
 ### TV Series Analysis
 - **Objective**: Handle TV series data along with ratings from different reviewers.
 - **Details**: Tracks which reviewers rated which TV series.
+![TV series _ Analysis_1](https://github.com/user-attachments/assets/1a6508e6-e9fb-487b-b7a3-f89939b2c777)
+![TV series Analysis_2](https://github.com/user-attachments/assets/b4504491-2b95-4932-89ae-ad18cb20a806)
+![TV series_Analysis_3](https://github.com/user-attachments/assets/de44d6a7-8a7f-4307-b6d1-807ee2be5df6)
+![TV series_Analysis_4](https://github.com/user-attachments/assets/51cf9a97-4d32-408d-b60a-a7f05e89004d)
+
 
 ## SQL Basics
 
