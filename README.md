@@ -1,4 +1,4 @@
-# SQL Analysis
+# SQL Analysis in Different Catagory Data
 
 Welcome to the SQL Projects repository! This collection of projects demonstrates the use of SQL for managing and analyzing data across various scenarios. Below is an overview of the projects included in this repository.
 
